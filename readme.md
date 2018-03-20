@@ -10,9 +10,8 @@ Consistent with the mission of the company, Neu's development team aims to enabl
 
 *To achieve the goals of this mission, we will:*
 
-* Focus on quality docs-first
+* Focus on quality docs/readmes first
 * User Docker and containers to facilitate seamless development across team members
-* Write unit tests 
-* Practice TDD programming 
+* Write unit tests & Practice TDD style programming 
 * Use code-coverage tools
 * Ensure a proper CI/CD pipeline for each project
